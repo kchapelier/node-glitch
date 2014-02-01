@@ -1,0 +1,26 @@
+{
+  "name": "glitch",
+  "description": "Glitched stream for intentional data corruption",
+  "version": "0.0.1",
+  "author": {
+    "name": "Kevin Chapelier"
+  },
+  "main": "./index",
+  "keywords": [
+    "glitch",
+    "stream",
+    "corruption"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kchapelier/node-glitch.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kchapelier/node-glitch/issues"
+  },
+  "homepage": "https://github.com/kchapelier/node-glitch",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
