@@ -1,7 +1,7 @@
 {
   "name": "glitch",
   "description": "Glitched stream for intentional data corruption",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": {
     "name": "Kevin Chapelier"
   },
