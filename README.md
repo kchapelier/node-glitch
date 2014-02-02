@@ -1,4 +1,4 @@
-# node-glitch
+# glitch
 
 Glitched stream for intentional data corruption.
 
@@ -18,7 +18,7 @@ npm install glitch
 * fileDst : Destination file.
 * probability : Probability of deviation per byte (between 0 and 1).
 * deviation : Maximum value deviation per byte.
-* mode : 
+* mode : File mode
 
 ### new glitch.GlitchedStream(options);
 
